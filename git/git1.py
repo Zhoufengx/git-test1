@@ -2,3 +2,4 @@
 # 开发时间: 2022/4/25 20:52
 
 print('hello')
+print('hello2')
